@@ -1,4 +1,1 @@
-"# Bulky_MVC" 
-"# TOP_SECRET_CONFIDENTIAL" 
-"# efundit" 
-"# greenGen" 
+<h3>Make sure to change the databse Json file to your own database accordingly!</h3>
